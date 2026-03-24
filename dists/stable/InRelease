@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Monolythium
+Label: Monolythium Desktop Wallet
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Monolythium Desktop Wallet APT Repository
+Date: Tue, 24 Mar 2026 07:04:13 +0000
+SHA256:
+ 4ac7b57b315de642dff9ddb3971003228faf950f178cbe51e2534c00824829bc 650 main/binary-amd64/Packages
+ e53b0ef8a16d8259be4524e964f25eaa056ec5efc8bf9b686d487abc62580959 443 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEMRwh/f432dLU3rQnXCAeYsfztq0FAmnCN20ACgkQXCAeYsfz
+tq01WA/+Msi78DKn5ZbA8ASM7mf4HJtFdtx0Nd4maD1O79j6iFjLSYU6DgZpmrNk
+mmHtuxEptCGHfOe/PiEkyB/E47DtrR8c2mSbehYcKrF8f+wH7ViD8Ehsnh6+QHdi
+S8mbCO9gCovgNfQ73E20K0Kph1WD0w2uZpmFtfFZJpHN9efa8tLKuJfxmj+W/xtY
+9mYr6WcbsjytyLQfKTX8nH47wvsNrRNbnHDBsyQ4gQVTTuflgvRyjsYXIghJDR9l
+NCbwQAwzsD28XLauRQ+0tgdZGe++cpiGuEcqh281AMClvFUzR3kgO25OFZZ7zeJj
+p7dG46wwCrBwLgBFY4/YQgzkCYqbBH0UQ1NlFQe55tYKs6jKA2iumixtdER6Tfch
+G8FINyHZsykuVP3S0+mccY6sUm9m67HsOILceYpFPJiu1VMoYeFVxNEUZgiOydo7
+cXw9vC2tb0D/agt6h/BRoyfr7J97T2eWk5BxxSb5AmLkVzLKsm15d3WX9juarcWK
+FZQkS0NyQ2HZjOa9vXzmcs/o4tqL8L3m97UHCDVXMJ8tP6rmetLnZKEsE02SH+wH
+NO+fx3CuCa/4TQHvibhjGf7bDhFIIdFeKB/nZM1dQPreR1kFX4FxGpNDNXfe7C1O
+gp6IAaaWOWlwsEphBslcJadngHOeVvhSgnvgIf62ok8J2csJvyU=
+=/FK/
+-----END PGP SIGNATURE-----
