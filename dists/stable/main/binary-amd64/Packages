@@ -28,3 +28,18 @@ Priority: optional
 Description: Monolythium blockchain desktop wallet
  A secure, multi-chain desktop wallet for the Monolythium blockchain ecosystem. Create profiles, manage wallets, stake tokens, and interact with Cosmos chains.
 
+Package: monolythium-wallet
+Version: 0.2.6
+Architecture: amd64
+Maintainer: Mono Labs R&D LLC
+Installed-Size: 24891
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Monolythium.Wallet_0.2.6_amd64.deb
+Size: 8463776
+MD5sum: 5c0026edeb6c249d0da6e7a98e20f0e6
+SHA1: 164a44c46300f74a4e664be7b6773de383d1f312
+SHA256: 5735b9a2fb5e4c8b26394da708ec4c25e3fc98e3e522ca66d3a7bc9407fbd984
+Priority: optional
+Description: Monolythium blockchain desktop wallet
+ A secure, multi-chain desktop wallet for the Monolythium blockchain ecosystem. Create profiles, manage wallets, stake tokens, and interact with Cosmos chains.
+
