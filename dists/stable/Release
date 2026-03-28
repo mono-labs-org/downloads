@@ -5,7 +5,7 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Monolythium Desktop Wallet APT Repository
-Date: Sat, 28 Mar 2026 06:14:50 +0000
+Date: Sat, 28 Mar 2026 09:35:08 +0000
 SHA256:
- d5a15a9754851583140ca2cae030fad7a58ab143d59ab7ecc91370bd19143cce 2600 main/binary-amd64/Packages
- 126a211807a233876dc8a2b5991aee3503831e537a5f56ee5cbb344ca37625cb 786 main/binary-amd64/Packages.gz
+ f62783c2329196597ab63d0c85487111da82128a06e95858ce1aa784fa1f0e72 3250 main/binary-amd64/Packages
+ 33ea872074903fc19aebbb0d665153427658625736e24ad984d13e9f5dcc4139 894 main/binary-amd64/Packages.gz
